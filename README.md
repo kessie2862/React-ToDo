@@ -1,5 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # 📖 React-ToDo
 
 <a name="readme-top"></a>
